@@ -13,45 +13,153 @@ mode        : selfcontained # {standalone, draft}
 
 ## Do you want to start an after school computing program at your school?
 
+Would you like your students to be able to: code a basic webpage, understand programming structures such as loops and conditionals, know what real computer scientsts look like and do?
+
+If (yes):
+
 1. Read these slides
 2. Find students
 3. Get started
 4. Have fun!
 
+If (no):
+<a href =""> Learn why you should! </a>
 --- .class #id 
 
 ## What you need
-1. Yourself or another "mentor"
+1. Yourself or another adult
 2. Students
 3. Space
 4. Computers (if you do not have access to computers but would like to teach your students computational thinking, check out <a href="http://csunplugged.org"> CS Unplugged</a>).
-5. A plan (provided here)
+5. A plan (keep reading)
+6. 4-12 Weeks*
 
+*Each 4 week block of lessons can stand alone, so you can pick and chose depending on your time constraints.
 --- .class #id 
 
-## Week 1 - Scratch & Introductions
-This week, start by introducing yourself and the field of computer science.
+## Week 1 - The Beginning: An Introduction to Scratch & Computer Scientists
+Total Time: 60 minutes
+
+This week, start by introducing yourself and the field of computer science. If you are not a computer scientist, consider displaying one or two of the videos from the <a href="http://mcwic.github.io/htmlblocks/blandrolemodellibrary.html">role model library</a>.
+
 Then, get your students excited about programming by getting them started with <a href="http://scratch.mit.edu">Scratch programming</a>.
 
 ---
 
-## Week 1 - Introductions (Role Modeling)
+## Week 1 (continued) - Introductions (Role Modeling)
+
+Time: 5 minutes
 
 Introduce yourself. If you are a computer scientist, tell students how you got into computer science, why you like it, and a little bit about your other interests.
 
 TIPS:
 
-1. Avoid statements such as "I was good at math and science so I knew that computer science would be right for me." Stating that you were "good" at math and science implies that it was an intrinsic property rather than something you developed through practice and hard work. (Girls often feel that their abilities are implicit rather than something they can gain with through practice. <a href="http://www.ncwit.org/sites/default/files/resources/betterapproachestowellintentionedbutharmfulmessages_overcomingstereotypethreatimproveretention.pdf">Learn More</a>). 
+1. Avoid statements such as "I was good at math and science so I knew that computer science would be right for me." Stating that you were "good" at math and science implies that your ability was an intrinsic property rather than something you developed through practice and hard work. (Girls often feel that their abilities are implicit rather than something they can gain with through practice. <a href="http://www.ncwit.org/sites/default/files/resources/betterapproachestowellintentionedbutharmfulmessages_overcomingstereotypethreatimproveretention.pdf">Learn More</a>). 
 
-2. Try to provide relatable interests (ice skating, soccer, etc.) so that the girls can see themselves in your shoes one day.
+2. Try to provide relatable interests (ice skating, soccer, etc.) so that the students can see themselves in your shoes one day.
 
-3. If possible, try to describe multiple paths available in computer science (try our mentor library to find short (<2min) videos and stories about different types of computer scientists).
+3. If possible, try to describe multiple careers and eductional paths available in computer science (try our mentor library to find short (<2min) videos and stories about different types of computer scientists). Be sure to let the students know that computer science is valuable in all professions such as <a href="http://mcwic.github.io/htmlblocks/blandrolemodellibrary.html#allieabad">medicine</a>, <a href="">law</a>, and <a href="">journalism</a>. 
+
+A "career paths in computer science" page is available here: 
 
 --- .class #id 
 
-## Week 1 - Scratch
+## Week 1 (continued) - Introduction to Scratch
 
+Total Time: 55 minutes
 
+1. Introduce students to the Scratch platform. Direct them to <a href="http://scratch.mit.edu>scratch.mit.edu</a> and have them create an account (<a href="">click for step-by-step instructions</a>).
+2. Show them how to use Scratch by doing a quick example. Have a sprite move 10 units to the left.
+3. Show the concept of a loop by pressing the green flag continually. Now, show them how using an infinite loop leads to the same result. (<a href=""> Click here for step-by-step example of 2 & 3.</a>)
+4. Allow the students free time to create and explore the Scratch interface. If you have students who are more reticent, provide them with goal projects such as those listed on the next slide.
 
+--- .class #id 
 
+## Week 1 (continued) - Potential Goal Projects
+1. Have the sprite move around the screen visiting each corner of the screen and changing colors when it reaches a corner. <a href=""> Example of this project </a>
+2. Have the sprite follow the mouse. <a href=""> Example of this project </a>
+3. Many additional <a href=""> projects </a> are available on the Scratch website with source code visible.
 
+--- .class #id 
+
+## Week 2 - More Scratch & More Role Models
+Total Time: 60 mintues
+
+This week will involve teaching students about conditionals in Scratch and gaining more exposure to "real" computer scientists from the role model library.
+
+--- .class #id 
+
+## Week 2 (continued) - Presentations & Role Model Library
+Time: 5-10 minutes
+
+0. Ask the students if they worked on any Scratch projects while they were at home, if they did, allow them to present their work to the class. 
+
+Time: 5-10 minutes
+
+1. This week, have students complete the <a href=""> "they're like me!"</a> scavenger hunt through the role model library.
+
+--- .class #id 
+
+## Week 2 (continued) - Scratch Setup and Conditional Explaination
+Time: 5 minutes
+
+1. Place students in pairs, try to pair students at a similar level together, or in the case of a class with mixed ages, one student from each age group. Tell the pair that they must ask each other for help before asking you. Alternately, you can implement the "two before me" rule: require that students ask two classmates for help before approaching you.
+
+Time: 5-10 minutes
+
+1. The goal project for this week is creating <a href=""> sprites that chase each other</a> and creating a <a href=""> playable piano </a>. In order to complete these projects, students will need to understand conditional statements. 
+2. One possible explaination of a conditional statement: 
+3. Show students a Scratch based conditional statement example such as:
+4. Expect to need to re-explain conditionals to certain students one-on-one.
+
+--- .class #id 
+
+## Week 2 (continued) - Scratch Project Time
+Time: 25-35 minutes
+
+1. For students who are self driven: allow open ended option to create "sprites that chase each other" and a "playable piano". For students who require more guidance, please see detailed goal project descriptions on the next slide.
+2. At the end of the day, encourage students to work on Scratch projects on their own, let them know that they will be able to present in front of the class next time! (Consider having small prizes for those who do outside projects.) 
+
+--- .class #id
+
+## Week 2 (continued) - Potential Goal Projects
+1. 
+2.
+
+--- .class #id
+
+## Week 3 - More Scratch and an Introduction to Cryptology
+Total Time: 60 minutes
+
+This week will involve students designing and beginning to execute a big (2 session/2 week long) project in Scratch. 
+
+We will also introduce students to the Pigpen Cipher and the concept of encoding and decoding messages.[[]]]]]]]]]]]]]]]]]]]]]]]]]] and exposure to the Pigpen Cipher
+
+--- .class #id 
+
+## Week 3 (continued) - Presentations
+Time: 5-10 minutes
+
+0. Ask the students if they worked on any projects while they were at home, if they did, allow them to present their work to the class. 
+
+--- .class #id
+
+## Week 3 (continued) - Pigpen Cipher Telephone Game
+Time: 15 minutes
+
+1. Explain the Pigpen Cipher () to students. Show them how to encode and 
+decode two simple messages, for example, "hello" and "goodbye for now" ().
+2. Explain to students the following game:
+<ul>You are going to sit in a line. </ul<
+<ul> The right-most person in line will be given a message that is written in English, this person will encode the message to pigpen and pass the message to the person on their left.</ul> The person on the left (person 2) will decode the message to English, and pass the message to the person on their left (person 3). Person 3 will encode the message to pigpen and pass the pigpen message to the person on their left (person 4). So on and so forth. At the end of the line, we will determine whether the decoded message is what we originally sent! [To prevent boredom of those students waiting for a message, you may want to send a message from each end on different colored paper.]
+
+--- .class #id 
+
+## Week 3 (continued) - Scratch
+Time: 40-45 minutes
+
+1. Work with each student to establish a plan for a "big project" give examples such as a short scene from a movie, the flappy bird game, the Pong game, the Space Invaders Game, etc. Walk students through what the different parts of their program might need to be, (e.g. for Pong: moving paddles, a bouncing ball, a scoring system). Links to example "solutions" for the projects listed are below:
+2. If multiple students are interested in creating the same types of programs, you may want to group them together in the classroom so that they can ask each other for help.
+3. Allow students to work on their big projects and tell them that you will be continuing work next week and will be presenting progress projects at the end of next class, but tell them they are definitely free to work on their own. Consider inviting special guests for the project presentations such as parents or another teacher or other students. You may also wish to offer gifts to each of the presenters (e.g. plastic sunglasses, or some other trinket). Further, you may wish to allow two weeks or class periods for students to work on projects depending on the size of your class and the interest level of the students.
+
+--- .class #id 
