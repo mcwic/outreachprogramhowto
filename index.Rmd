@@ -133,7 +133,7 @@ Total Time: 60 minutes
 
 This week will involve students designing and beginning to execute a big project in Scratch. 
 
-We will also introduce students to the Pigpen Cipher and the concept of encoding and decoding messages.[[]]]]]]]]]]]]]]]]]]]]]]]]]] and exposure to the Pigpen Cipher
+We will also introduce students to the Pigpen Cipher and the concept of encoding and decoding messages.
 
 --- .class #id 
 
