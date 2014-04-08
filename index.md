@@ -53,7 +53,6 @@ Time: 5 minutes
 Introduce yourself. If you are a computer scientist, tell students how you got into computer science, why you like it, and a little bit about your other interests.
 
 TIPS:
-
 1. Avoid statements such as "I was good at math and science so I knew that computer science would be right for me." Stating that you were "good" at math and science implies that your ability was an intrinsic property rather than something you developed through practice and hard work. (Girls often feel that their abilities are implicit rather than something they can gain with through practice. <a href="http://www.ncwit.org/sites/default/files/resources/betterapproachestowellintentionedbutharmfulmessages_overcomingstereotypethreatimproveretention.pdf">Learn More</a>). 
 
 2. Try to provide relatable interests (ice skating, soccer, etc.) so that the students can see themselves in your shoes one day.
@@ -183,4 +182,4 @@ This video introduces the internet and this video introduces HTML.
 
 Related <a href="http://mcwic.github.io/htmlblocks/blandrolemodellibrary.html">computer scientist profiles</a> are: System Administrator & Web Developer & IBM Web Guru.
 
---- .class #id 
+--- .class #id
