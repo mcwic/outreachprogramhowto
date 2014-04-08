@@ -131,7 +131,7 @@ Time: 25-35 minutes
 ## Week 3 - More Scratch and an Introduction to Cryptology
 Total Time: 60 minutes
 
-This week will involve students designing and beginning to execute a big (2 session/2 week long) project in Scratch. 
+This week will involve students designing and beginning to execute a big project in Scratch. 
 
 We will also introduce students to the Pigpen Cipher and the concept of encoding and decoding messages.[[]]]]]]]]]]]]]]]]]]]]]]]]]] and exposure to the Pigpen Cipher
 
@@ -140,18 +140,24 @@ We will also introduce students to the Pigpen Cipher and the concept of encoding
 ## Week 3 (continued) - Presentations
 Time: 5-10 minutes
 
-0. Ask the students if they worked on any projects while they were at home, if they did, allow them to present their work to the class. 
+1. Ask the students if they worked on any projects while they were at home, if they did, allow them to present their work to the class. 
+
+--- .class #id
+
+## Week 3 (continued) - The Pigpen Cipher
+Time: 7 minutes
+
+Explain the Pigpen Cipher (use <a href="http://mcwic.github.io/htmlblocks/pigpencipher.html">this</a> page if you need help & to print out or display the cipher key) to students. Show them how to encode and decode two simple messages, <a href="http://mcwic.github.io/htmlblocks/pigpencipher.html#example">for example</a>, "hello" and "goodbye for now".
 
 --- .class #id
 
 ## Week 3 (continued) - Pigpen Cipher Telephone Game
-Time: 15 minutes
+Time: 7 minutes
 
-1. Explain the Pigpen Cipher (use <a href="http://mcwic.github.io/htmlblocks/pigpencipher.html">this</a> page if you need help & to print out handouts) to students. Show them how to encode and 
-decode two simple messages, for example, "hello" and "goodbye for now" (<a href="http://mcwic.github.io/htmlblocks/pigpencipher.html#example").
-2. Explain to students the following game:
-<ul>You are going to sit in a line. </ul>
-<ul> The right-most person in line will be given a message that is written in English, this person will encode the message to pigpen and pass the message to the person on their left.</ul> The person on the left (person 2) will decode the message to English, and pass the message to the person on their left (person 3). Person 3 will encode the message to pigpen and pass the pigpen message to the person on their left (person 4). So on and so forth. At the end of the line, we will determine whether the decoded message is what we originally sent! [To prevent boredom of those students waiting for a message, you may want to send a message from each end on different colored paper.]
+Explain to students the following game:
+<ol>
+<li>You are going to sit in a line. </li>
+<li>The right-most person in line will be given a message that is written in English, this person will encode the message to pigpen and pass the message to the person on their left.</li><li> The person on the left (person 2) will decode the message to English, and pass the message to the person on their left (person 3).</li> <li>Person 3 will encode the message to pigpen and pass the pigpen message to the person on their left (person 4). So on and so forth.</li><li> At the end of the line, we will determine whether the decoded message is what we originally sent!</li></ol> [To prevent boredom of those students waiting for a message, you may want to send a message from each end on different colored paper.]
 
 --- .class #id 
 
@@ -170,6 +176,7 @@ Total Time: 60 minutes
 This week will be students' chance to present their "big" scratch projects that they worked on at the last 1-2 sessions. Try to bring in parents or fun rewards (cupcakes, sunglasses, magnets, etc.) for the presentations.
 
 At the end of the session, students will watch a short introduction to the internet video and introduce the concept of HTML. 
+
 --- .class #id 
 
 ## Week 4 (continued) - Final Scratch Presentations
@@ -178,8 +185,9 @@ Allow each student to come up to the projector and present their project. If you
 --- .class #id 
 
 ## Week 4 (continued) - Introduction to the Internet
-This video introduces the internet and this video introduces HTML.
+Show students these videos & discuss any questions they might have. If you are not familiar with HTML you may want to read ahead in our <a href="http://mcwic.github.io/htmltutorial/">HTML Teacher Tutorial</a> first.
+<ul> <li> <a href="">Introduction to the Internet</a> </li> <li> <a href="">Introduction to HTML</a> </li>
 
-Related <a href="http://mcwic.github.io/htmlblocks/blandrolemodellibrary.html">computer scientist profiles</a> are: System Administrator & Web Developer & IBM Web Guru.
+If you have extra time, direct students to the relevant web developer <a href="http://mcwic.github.io/htmlblocks/blandrolemodellibrary.html">computer scientist profiles</a>: System Administrator & Web Developer & IBM Web Guru.
 
 --- .class #id
