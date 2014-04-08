@@ -176,6 +176,7 @@ Total Time: 60 minutes
 This week will be students' chance to present their "big" scratch projects that they worked on at the last 1-2 sessions. Try to bring in parents or fun rewards (cupcakes, sunglasses, magnets, etc.) for the presentations.
 
 At the end of the session, students will watch a short introduction to the internet video and introduce the concept of HTML. 
+
 --- .class #id 
 
 ## Week 4 (continued) - Final Scratch Presentations
@@ -184,8 +185,9 @@ Allow each student to come up to the projector and present their project. If you
 --- .class #id 
 
 ## Week 4 (continued) - Introduction to the Internet
-This video introduces the internet and this video introduces HTML.
+Show students these videos & discuss any questions they might have. If you are not familiar with HTML you may want to read ahead in our <a href="http://mcwic.github.io/htmltutorial/">HTML Teacher Tutorial</a> first.
+<ul> <li> <a href="">Introduction to the Internet</a> </li> <li> <a href="">Introduction to HTML</a> </li>
 
-Related <a href="http://mcwic.github.io/htmlblocks/blandrolemodellibrary.html">computer scientist profiles</a> are: System Administrator & Web Developer & IBM Web Guru.
+If you have extra time, direct students to the relevant web developer <a href="http://mcwic.github.io/htmlblocks/blandrolemodellibrary.html">computer scientist profiles</a>: System Administrator & Web Developer & IBM Web Guru.
 
 --- .class #id
