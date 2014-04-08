@@ -124,7 +124,7 @@ Time: 25-35 minutes
 ## Week 2 (continued) - Potential Goal Projects
 1. Ask students to create a <a href="http://scratch.mit.edu/projects/2425970/">scratch piano</a>. For students that finish early, urge them to create a drum kit, trombone, and other instruments. 
 2. Ask students to create "game" in which the cat follows the mouse and the dog chases after the cat, see our example <a href="http://scratch.mit.edu/projects/20478118/">here</a>. Challenge students to turn this into a game by keeping score for every time the cat and dog collide. <a href="http://www.teach-ict.com/programming/scratch/scratch_home.htm">Idea credit.</a>
-3. See <a href="http://www.teach-ict.com/programming/scratch/scratch_home.htm>here</a> for more scratch project ideas.
+3. See <a href="http://www.teach-ict.com/programming/scratch/scratch_home.htm">here</a> for more scratch project ideas.
 
 --- .class #id
 
@@ -164,7 +164,7 @@ Time: 40-45 minutes
 
 --- .class #id 
 
-##Week 4 - Final Scratch Presentations & An Introduction to the Internet
+## Week 4 - Final Scratch Presentations & An Introduction to the Internet
 Total Time: 60 minutes
 
 This week will be students' chance to present their "big" scratch projects that they worked on at the last 1-2 sessions. Try to bring in parents or fun rewards (cupcakes, sunglasses, magnets, etc.) for the presentations.
@@ -172,12 +172,12 @@ This week will be students' chance to present their "big" scratch projects that 
 At the end of the session, students will watch a short introduction to the internet video and introduce the concept of HTML. 
 --- .class #id 
 
-##Week 4 (continued) - Final Scratch Presentations
+## Week 4 (continued) - Final Scratch Presentations
 Allow each student to come up to the projector and present their project. If you do not have access to a projector, have students gather around each other's computers.
 
 --- .class #id 
 
-##Week 4 (continued) - Introduction to the Internet
+## Week 4 (continued) - Introduction to the Internet
 This video introduces the internet and this video introduces HTML.
 
 Related <a href="http://mcwic.github.io/htmlblocks/blandrolemodellibrary.html">computer scientist profiles</a> are: System Administrator & Web Developer & IBM Web Guru.
