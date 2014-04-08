@@ -24,6 +24,7 @@ If (yes):
 
 If (no):
 <a href =""> Learn why you should! </a>
+
 --- .class #id 
 
 ## What you need
@@ -35,6 +36,7 @@ If (no):
 6. 4-12 Weeks*
 
 *Each 4 week block of lessons can stand alone, so you can pick and chose depending on your time constraints.
+
 --- .class #id 
 
 ## Week 1 - The Beginning: An Introduction to Scratch & Computer Scientists
