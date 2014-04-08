@@ -144,11 +144,17 @@ Time: 5-10 minutes
 
 --- .class #id
 
-## Week 3 (continued) - Pigpen Cipher Telephone Game
-Time: 15 minutes
+## Week 3 (continued) - The Pigpen Cipher
+Time: 7 minutes
 
-1. Explain the Pigpen Cipher (use <a href="http://mcwic.github.io/htmlblocks/pigpencipher.html">this</a> page if you need help & to print out or display the cipher key) to students. Show them how to encode and decode two simple messages, <a href="http://mcwic.github.io/htmlblocks/pigpencipher.html#example">for example</a>, "hello" and "goodbye for now".
-2. Explain to students the following game:
+Explain the Pigpen Cipher (use <a href="http://mcwic.github.io/htmlblocks/pigpencipher.html">this</a> page if you need help & to print out or display the cipher key) to students. Show them how to encode and decode two simple messages, <a href="http://mcwic.github.io/htmlblocks/pigpencipher.html#example">for example</a>, "hello" and "goodbye for now".
+
+--- .class #id
+
+## Week 3 (continued) - Pigpen Cipher Telephone Game
+Time: 7 minutes
+
+Explain to students the following game:
 <ol>
 <li>You are going to sit in a line. </li>
 <li>The right-most person in line will be given a message that is written in English, this person will encode the message to pigpen and pass the message to the person on their left.</li><li> The person on the left (person 2) will decode the message to English, and pass the message to the person on their left (person 3).</li> <li>Person 3 will encode the message to pigpen and pass the pigpen message to the person on their left (person 4). So on and so forth.</li><li> At the end of the line, we will determine whether the decoded message is what we originally sent!</li></ol> [To prevent boredom of those students waiting for a message, you may want to send a message from each end on different colored paper.]
