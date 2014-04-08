@@ -131,7 +131,7 @@ Time: 25-35 minutes
 ## Week 3 - More Scratch and an Introduction to Cryptology
 Total Time: 60 minutes
 
-This week will involve students designing and beginning to execute a big (2 session/2 week long) project in Scratch. 
+This week will involve students designing and beginning to execute a big project in Scratch. 
 
 We will also introduce students to the Pigpen Cipher and the concept of encoding and decoding messages.[[]]]]]]]]]]]]]]]]]]]]]]]]]] and exposure to the Pigpen Cipher
 
@@ -140,18 +140,18 @@ We will also introduce students to the Pigpen Cipher and the concept of encoding
 ## Week 3 (continued) - Presentations
 Time: 5-10 minutes
 
-0. Ask the students if they worked on any projects while they were at home, if they did, allow them to present their work to the class. 
+1. Ask the students if they worked on any projects while they were at home, if they did, allow them to present their work to the class. 
 
 --- .class #id
 
 ## Week 3 (continued) - Pigpen Cipher Telephone Game
 Time: 15 minutes
 
-1. Explain the Pigpen Cipher (use <a href="http://mcwic.github.io/htmlblocks/pigpencipher.html">this</a> page if you need help & to print out handouts) to students. Show them how to encode and 
-decode two simple messages, for example, "hello" and "goodbye for now" (<a href="http://mcwic.github.io/htmlblocks/pigpencipher.html#example").
+1. Explain the Pigpen Cipher (use <a href="http://mcwic.github.io/htmlblocks/pigpencipher.html">this</a> page if you need help & to print out or display the cipher key) to students. Show them how to encode and decode two simple messages, <a href="http://mcwic.github.io/htmlblocks/pigpencipher.html#example">for example</a>, "hello" and "goodbye for now".
 2. Explain to students the following game:
-<ul>You are going to sit in a line. </ul>
-<ul> The right-most person in line will be given a message that is written in English, this person will encode the message to pigpen and pass the message to the person on their left.</ul> The person on the left (person 2) will decode the message to English, and pass the message to the person on their left (person 3). Person 3 will encode the message to pigpen and pass the pigpen message to the person on their left (person 4). So on and so forth. At the end of the line, we will determine whether the decoded message is what we originally sent! [To prevent boredom of those students waiting for a message, you may want to send a message from each end on different colored paper.]
+<ol>
+<li>You are going to sit in a line. </li>
+<li>The right-most person in line will be given a message that is written in English, this person will encode the message to pigpen and pass the message to the person on their left.</li><li> The person on the left (person 2) will decode the message to English, and pass the message to the person on their left (person 3).</li> <li>Person 3 will encode the message to pigpen and pass the pigpen message to the person on their left (person 4). So on and so forth.</li><li> At the end of the line, we will determine whether the decoded message is what we originally sent!</li></ol> [To prevent boredom of those students waiting for a message, you may want to send a message from each end on different colored paper.]
 
 --- .class #id 
 
