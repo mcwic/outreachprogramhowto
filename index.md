@@ -53,7 +53,6 @@ Time: 5 minutes
 Introduce yourself. If you are a computer scientist, tell students how you got into computer science, why you like it, and a little bit about your other interests.
 
 TIPS:
-
 1. Avoid statements such as "I was good at math and science so I knew that computer science would be right for me." Stating that you were "good" at math and science implies that your ability was an intrinsic property rather than something you developed through practice and hard work. (Girls often feel that their abilities are implicit rather than something they can gain with through practice. <a href="http://www.ncwit.org/sites/default/files/resources/betterapproachestowellintentionedbutharmfulmessages_overcomingstereotypethreatimproveretention.pdf">Learn More</a>). 
 
 2. Try to provide relatable interests (ice skating, soccer, etc.) so that the students can see themselves in your shoes one day.
@@ -117,14 +116,15 @@ Time: 5-10 minutes
 ## Week 2 (continued) - Scratch Project Time
 Time: 25-35 minutes
 
-1. For students who are self driven: allow open ended option to create "sprites that chase each other" and a "playable piano". For students who require more guidance, please see detailed goal project descriptions on the next slide.
+1. For students who are self driven: allow the open ended option to create "sprites that chase each other" and a "playable piano". For students who require more guidance, please see detailed goal project descriptions on the next slide.
 2. At the end of the day, encourage students to work on Scratch projects on their own, let them know that they will be able to present in front of the class next time! (Consider having small prizes for those who do outside projects.) 
 
 --- .class #id
 
 ## Week 2 (continued) - Potential Goal Projects
-1. 
-2.
+1. Ask students to create a <a href="http://scratch.mit.edu/projects/2425970/">scratch piano</a>. For students that finish early, urge them to create a drum kit, trombone, and other instruments. 
+2. Ask students to create "game" in which the cat follows the mouse and the dog chases after the cat, see our example <a href="http://scratch.mit.edu/projects/20478118/">here</a>. Challenge students to turn this into a game by keeping score for every time the cat and dog collide. <a href="http://www.teach-ict.com/programming/scratch/scratch_home.htm">Idea credit.</a>
+3. See <a href="http://www.teach-ict.com/programming/scratch/scratch_home.htm>here</a> for more scratch project ideas.
 
 --- .class #id
 
@@ -147,10 +147,10 @@ Time: 5-10 minutes
 ## Week 3 (continued) - Pigpen Cipher Telephone Game
 Time: 15 minutes
 
-1. Explain the Pigpen Cipher () to students. Show them how to encode and 
-decode two simple messages, for example, "hello" and "goodbye for now" ().
+1. Explain the Pigpen Cipher (use <a href="http://mcwic.github.io/htmlblocks/pigpencipher.html">this</a> page if you need help & to print out handouts) to students. Show them how to encode and 
+decode two simple messages, for example, "hello" and "goodbye for now" (<a href="http://mcwic.github.io/htmlblocks/pigpencipher.html#example").
 2. Explain to students the following game:
-<ul>You are going to sit in a line. </ul<
+<ul>You are going to sit in a line. </ul>
 <ul> The right-most person in line will be given a message that is written in English, this person will encode the message to pigpen and pass the message to the person on their left.</ul> The person on the left (person 2) will decode the message to English, and pass the message to the person on their left (person 3). Person 3 will encode the message to pigpen and pass the pigpen message to the person on their left (person 4). So on and so forth. At the end of the line, we will determine whether the decoded message is what we originally sent! [To prevent boredom of those students waiting for a message, you may want to send a message from each end on different colored paper.]
 
 --- .class #id 
@@ -163,3 +163,23 @@ Time: 40-45 minutes
 3. Allow students to work on their big projects and tell them that you will be continuing work next week and will be presenting progress projects at the end of next class, but tell them they are definitely free to work on their own. Consider inviting special guests for the project presentations such as parents or another teacher or other students. You may also wish to offer gifts to each of the presenters (e.g. plastic sunglasses, or some other trinket). Further, you may wish to allow two weeks or class periods for students to work on projects depending on the size of your class and the interest level of the students.
 
 --- .class #id 
+
+##Week 4 - Final Scratch Presentations & An Introduction to the Internet
+Total Time: 60 minutes
+
+This week will be students' chance to present their "big" scratch projects that they worked on at the last 1-2 sessions. Try to bring in parents or fun rewards (cupcakes, sunglasses, magnets, etc.) for the presentations.
+
+At the end of the session, students will watch a short introduction to the internet video and introduce the concept of HTML. 
+--- .class #id 
+
+##Week 4 (continued) - Final Scratch Presentations
+Allow each student to come up to the projector and present their project. If you do not have access to a projector, have students gather around each other's computers.
+
+--- .class #id 
+
+##Week 4 (continued) - Introduction to the Internet
+This video introduces the internet and this video introduces HTML.
+
+Related <a href="http://mcwic.github.io/htmlblocks/blandrolemodellibrary.html">computer scientist profiles</a> are: System Administrator & Web Developer & IBM Web Guru.
+
+--- .class #id
