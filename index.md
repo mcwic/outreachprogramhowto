@@ -40,7 +40,7 @@ if (answer == yes):
 ## Week 1 - The Beginning: An Introduction to Scratch & Computer Scientists
 Total Time: 60 minutes
 
-This week, start by introducing yourself and the field of computer science. If you are not a computer scientist, consider displaying one or two of the videos from the <a href="http://mcwic.github.io/htmlblocks/blandrolemodellibrary.html">role model library</a>.
+This week, start by introducing yourself and the field of computer science. If you are not a computer scientist, consider displaying one or two of the videos from the <a href="http://mcwic.github.io/htmlblocks/computerscientistlibrary.html">computer scientist library</a>.
 
 Then, get your students excited about programming by getting them started with <a href="http://scratch.mit.edu">Scratch programming</a>.
 
@@ -57,9 +57,7 @@ TIPS:
 
 2. Try to provide relatable interests (ice skating, soccer, etc.) so that the students can see themselves in your shoes one day.
 
-3. If possible, try to describe multiple careers and eductional paths available in computer science (try our mentor library to find short (<2min) videos and stories about different types of computer scientists). Be sure to let the students know that computer science is valuable in all professions such as <a href="http://mcwic.github.io/htmlblocks/blandrolemodellibrary.html#allieabad">medicine</a>, <a href="">law</a>, and <a href="">journalism</a>. 
-
-A "career paths in computer science" page is available here: 
+3. If possible, try to describe multiple careers and eductional paths available in computer science (try our mentor library to find short (<2min) videos and stories about different types of computer scientists). Be sure to let the students know that computer science is valuable in all professions such as medicine, law, and journalism. 
 
 --- .class #id 
 
@@ -67,24 +65,24 @@ A "career paths in computer science" page is available here:
 
 Total Time: 55 minutes
 
-1. Introduce students to the Scratch platform. Direct them to <a href="http://scratch.mit.edu>scratch.mit.edu</a> and have them create an account (<a href="">click for step-by-step instructions</a>).
-2. Show them how to use Scratch by doing a quick example. Have a sprite move 10 units to the left.
-3. Show the concept of a loop by pressing the green flag continually. Now, show them how using an infinite loop leads to the same result. (<a href=""> Click here for step-by-step example of 2 & 3.</a>)
+1. Introduce students to the Scratch platform. Direct them to <a href="http://scratch.mit.edu>scratch.mit.edu</a> and have them create an account.
+2. Show them how to use Scratch by doing a quick example. Have a sprite move 10 units to the left. [Example code](http://scratch.mit.edu/projects/21655719/)
+3. Show the concept of a loop by repeatedly pressing the green flag. Now, show them how using an infinite loop leads to the same result. [Example code](http://scratch.mit.edu/projects/21656115/)
 4. Allow the students free time to create and explore the Scratch interface. If you have students who are more reticent, provide them with goal projects such as those listed on the next slide.
 
 --- .class #id 
 
 ## Week 1 (continued) - Potential Goal Projects
-1. Have the sprite move around the screen visiting each corner of the screen and changing colors when it reaches a corner. <a href=""> Example of this project </a>
-2. Have the sprite follow the mouse. <a href=""> Example of this project </a>
-3. Many additional <a href=""> projects </a> are available on the Scratch website with source code visible.
+1. Have the sprite move around the screen visiting each corner of the screen and changing colors when it reaches a corner. [Example of this project.](http://scratch.mit.edu/projects/21656210/)
+2. Have the sprite follow the mouse. [Example of this project.](http://scratch.mit.edu/projects/21656523/)
+3. Many [additional projects](http://scratch.mit.edu/explore/?date=this_month) are available on the Scratch website with source code visible.
 
 --- .class #id 
 
-## Week 2 - More Scratch & More Role Models
+## Week 2 - More Scratch & More Computer Scientists
 Total Time: 60 mintues
 
-This week will involve teaching students about conditionals in Scratch and gaining more exposure to "real" computer scientists from the role model library.
+This week will involve teaching students about conditionals in Scratch and gaining more exposure to "real" computer scientists from the computer scientist library.
 
 --- .class #id 
 
