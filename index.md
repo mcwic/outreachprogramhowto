@@ -97,11 +97,12 @@ Time: 5-10 minutes
 
 --- .class #id 
 
-## Week 2 (continued) - Scratch Setup and Conditional Explaination
+## Week 2 (continued) - Scratch Setup 
 Time: 5 minutes
 
 1. Place students in pairs, try to pair students at a similar level together, or in the case of a class with mixed ages, one student from each age group. Tell the pair that they must ask each other for help before asking you. Alternately, you can implement the "two before me" rule: require that students ask two classmates for help before approaching you.
 
+## Week 2 (continued) - Conditional Explaination
 Time: 5-10 minutes
 
 1. The goal project for this week is creating sprites that chase each other and creating a playable piano. In order to complete these projects, students will need to understand conditional statements. 
