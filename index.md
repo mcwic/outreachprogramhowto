@@ -102,6 +102,8 @@ Time: 5 minutes
 
 1. Place students in pairs, try to pair students at a similar level together, or in the case of a class with mixed ages, one student from each age group. Tell the pair that they must ask each other for help before asking you. Alternately, you can implement the "two before me" rule: require that students ask two classmates for help before approaching you.
 
+--- .class #id
+
 ## Week 2 (continued) - Conditional Explaination
 Time: 5-10 minutes
 
