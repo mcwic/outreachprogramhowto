@@ -94,6 +94,7 @@ Time: 5-10 minutes
 Time: 5-10 minutes
 
 1. This week, have students complete the "they're like me!" Computer Scientist Library scavenger hunt available [here](http://mcwic.github.io/htmlblocks/teacher_resources.html#top) under Computer Scientist Library Projects & Assessments.
+
 --- .class #id 
 
 ## Week 2 (continued) - Scratch Setup and Conditional Explaination
@@ -202,7 +203,6 @@ They have probably never seen code before. Talk through the code line by line, d
 
 Also try deleting part of the code and then running the page to see which, if any, errors occur, and how the web page looks without that piece of code.
 
-Webpages with explainations are available here: 
 --- .class #id 
 
 ## Week 5 (continued) - HTML Explained
@@ -212,6 +212,8 @@ Explain the HTML, head, body, heading, paragraph, image and hyperlink tags to yo
 You can use the videos available [here](https://www.youtube.com/playlist?list=PLPpkJJSKXEJ11Mq8xjty3AZKldH9V48mt). 
 
 Follow up with any additional explaination that you think will be helpful. 
+
+--- .class #id 
 
 ## Week 5 (continued) - First Website: Goal Project 1
 Time: 50 minutes
@@ -231,12 +233,16 @@ Total Time: 60 minutes
 
 This week students will review HTML and create more complex webpages.
 
+--- .class #id 
+
 ## Week 6 (continued) - HTML Review
 Time: 10 minutes
 
 1. Ask students about what they remember about HTML; if any students worked on html projects over the week, ask them to show their project to the class.
 
 2. Have students write HTML code on the board (example script available <a href="">here</a>). If students make mistakes on the board, tell them where there is a bug. See if they can figure out and fix the bug without you telling them the specific error.
+
+--- .class #id 
 
 ## Week 6 (continued) - New HTML & CSS Content
 Time: 10 minutes
@@ -245,8 +251,7 @@ Time: 10 minutes
 
 2. Give them each a sheet of paper (or ask them to come up to the whiteboard) and ask them to write the code they think they need to create a website with a purple heading and a blue background.
 
-## Week 6 (continued) - Goal Project 2
-Time: 40 minutes
+--- .class #id 
 
 ## Week 6 (continued) - Goal Project 2
 Time: 40 minutes
@@ -254,6 +259,7 @@ Time: 40 minutes
 1. The students will now move on to working on a goal project. (have them do this not on w3, but rather on their own text editor [click for more information](http://mcwic.github.io/htmltutorial/contents/start/)). 
 
 2. Use goal projects 2 through 2c available [here](http://mcwic.github.io/htmlBuildingBlocks.html)
+
 --- .class #id 
 
 ## Weeks 7 & 8 - Tumblr & Creating a Programming Portfolio
