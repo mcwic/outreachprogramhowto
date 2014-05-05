@@ -15,15 +15,13 @@ mode        : selfcontained # {standalone, draft}
 
 Would you like your students to be able to: code a basic webpage, understand programming structures such as loops and conditionals, know what real computer scientsts look like and do?
 
-If (yes):
+if (answer == yes):
 
 1. Read these slides
 2. Find students
 3. Get started
 4. Have fun!
 
-If (no):
-<a href =""> Learn why you should! </a>
 
 --- .class #id 
 
@@ -182,12 +180,100 @@ At the end of the session, students will watch a short introduction to the inter
 --- .class #id 
 
 ## Week 4 (continued) - Final Scratch Presentations
+Time: 50 minutes
 Allow each student to come up to the projector and present their project. If you do not have access to a projector, have students gather around each other's computers.
 
 --- .class #id 
 
 ## Week 4 (continued) - Introduction to the Internet
-Show students these videos & discuss any questions they might have. If you are not familiar with HTML you may want to read ahead in our <a href="http://mcwic.github.io/htmltutorial/">HTML Teacher Tutorial</a> first.
+Time: 10 minutes
+Show students these videos:
 <ul> <li> <a href="">Introduction to the Internet</a> </li> <li> <a href="">Introduction to HTML</a> </li></ul>
+& discuss any questions they might have. If you are not familiar with HTML you may want to read ahead in our <a href="http://mcwic.github.io/htmltutorial/">HTML Teacher Tutorial</a> first.
 
 If you have extra time, direct students to the relevant web developer <a href="http://mcwic.github.io/htmlblocks/blandrolemodellibrary.html">computer scientist profiles</a>: System Administrator & Web Developer & IBM Web Guru.
+
+--- .class #id 
+
+## Week 5 - Exploring and Creating HTML webpages
+Total Time: 60 minutes
+
+This week will be dedicated to students learning HTML and discovering their ability to create webpages.
+
+Start off by showing students model webpages you may have created already or you found online. Then show them the code that created those webpages.
+They have probably never seen code before. Talk through the code line by line, discussing which line of code corresponds to something they see on the page. 
+
+Also try deleting part of the code and then running the page to see which, if any, errors occur, and how the web page looks without that piece of code.
+
+Webpages with explainations are available here: 
+--- .class #id 
+
+## Week 5 (continued) - HTML Explained
+Time: 10 minutes
+Explain the HTML, head, body, heading, paragraph, image and hyperlink tags to your students. 
+
+You can use the videos available [here](https://www.youtube.com/playlist?list=PLPpkJJSKXEJ11Mq8xjty3AZKldH9V48mt). 
+
+Follow up with any additional explaination that you think will be helpful. 
+
+## Week 5 (continued) - First Website: Goal Project 1
+Time: 50 minutes
+
+Show students the website images available [here](http://mcwic.github.io/htmlblocks/htmlBuildingBlocks.html). Ask them to try to create the first website. Have students write their code in the <a href="http://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic">W3 try-it editor</a>. 
+
+If you think your students will have trouble starting to write HTML code, have them write the code for the first goal website on paper. Go around the room to help them and identify errors. Alternately, you can pair students up and have them work on writing code on the computer together.
+
+Common student errors include missing or mis-matched closing tags and forgetting the '/' in a closing tag.
+
+Solutions to the goal websites are available [here](http://mcwic.github.io/htmlblocks/teacher_resources.html#top).
+
+--- .class #id 
+
+## Week 6 - Reviewing HTML, learning CSS, and Creating webpages outside of w3
+Total Time: 60 minutes
+
+This week students will review HTML and create more complex webpages.
+
+## Week 6 (continued) - HTML Review
+Time: 10 minutes
+
+1. Ask students about what they remember about HTML; if any students worked on html projects over the week, ask them to show their project to the class.
+
+2. Have students write HTML code on the board (example script available <a href="">here</a>). If students make mistakes on the board, tell them where there is a bug. See if they can figure out and fix the bug without you telling them the specific error.
+
+## Week 6 (continued) - New HTML & CSS Content
+Time: 10 minutes
+
+1. Show students the [video](https://www.youtube.com/watch?v=VXLIfufwmsE&list=PLPpkJJSKXEJ11Mq8xjty3AZKldH9V48mt&index=7) for creating lists in HTML and the collection of [CSS videos](https://www.youtube.com/watch?v=QAChkbDdt4w&list=PLPpkJJSKXEJ11Mq8xjty3AZKldH9V48mt&index=8).
+
+2. Give them each a sheet of paper (or ask them to come up to the whiteboard) and ask them to write the code they think they need to create a website with a purple heading and a blue background.
+
+## Week 6 (continued) - Goal Project 2
+Time: 40 minutes
+
+## Week 6 (continued) - Goal Project 2
+Time: 40 minutes
+
+1. The students will now move on to working on a goal project. (have them do this not on w3, but rather on their own text editor [click for more information](http://mcwic.github.io/htmltutorial/contents/start/)). 
+
+2. Use goal projects 2 through 2c available [here](http://mcwic.github.io/htmlBuildingBlocks.html)
+--- .class #id 
+
+## Weeks 7 & 8 - Tumblr & Creating a Programming Portfolio
+Students can apply their HTML and CSS learning by programming in Tumblr.
+
+Walk your students through the Tumblr tutorial located [here](http://mcwic.github.io/tumblrtutorial/).
+
+It will probably take two classes to work through this material. 
+
+In week 7, we recommend walking through items 1-5. In week 8 we recommend working through items 6-9. Alternately, you can help your students create a programming portfolio in Tumblr during week 8, and leave items 6-9 for the students to work through on their own. 
+
+Instructions on creating a programming portfolio in Tumblr are located [here]().
+
+--- .class #id
+
+## Afterward
+We hope that this presentation and these resources has been helpful. Please feel free to contact Elissa Redmiles at eredmiles@cs.umd.edu or eanimals@comcast.net for help or more information.
+
+This project was generously supported by an ACM Special Interest Group on Computing Education Special Project Grant and by the Maryland Center for Women in Computing.
+
