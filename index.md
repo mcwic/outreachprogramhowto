@@ -88,15 +88,14 @@ This week will involve teaching students about conditionals in Scratch and gaini
 
 --- .class #id 
 
-## Week 2 (continued) - Presentations & Role Model Library
+## Week 2 (continued) - Presentations & Computer Scientist Library
 Time: 5-10 minutes
 
 0. Ask the students if they worked on any Scratch projects while they were at home, if they did, allow them to present their work to the class. 
 
 Time: 5-10 minutes
 
-1. This week, have students complete the <a href=""> "they're like me!"</a> scavenger hunt through the role model library.
-
+1. This week, have students complete the "they're like me!" Computer Scientist Library scavenger hunt available [here](http://mcwic.github.io/htmlblocks/teacher_resources.html#top) under Computer Scientist Library Projects & Assessments.
 --- .class #id 
 
 ## Week 2 (continued) - Scratch Setup and Conditional Explaination
@@ -106,9 +105,9 @@ Time: 5 minutes
 
 Time: 5-10 minutes
 
-1. The goal project for this week is creating <a href=""> sprites that chase each other</a> and creating a <a href=""> playable piano </a>. In order to complete these projects, students will need to understand conditional statements. 
-2. One possible explaination of a conditional statement: 
-3. Show students a Scratch based conditional statement example such as:
+1. The goal project for this week is creating sprites that chase each other and creating a playable piano. In order to complete these projects, students will need to understand conditional statements. 
+2. One possible explaination of a conditional statement: "If it is raining outside, I need my umbrella, else, I do not need an umbrella."
+3. Show students a Scratch based conditional statement example, such as one that "if the mousepointer is touching the sprite, the sprite is red, else the sprite is blue." State this sentance and then show the equivalent Scratch code.
 4. Expect to need to re-explain conditionals to certain students one-on-one.
 
 --- .class #id 
@@ -187,9 +186,9 @@ Allow each student to come up to the projector and present their project. If you
 
 ## Week 4 (continued) - Introduction to the Internet
 Time: 10 minutes
-Show students these videos:
-<ul> <li> <a href="">Introduction to the Internet</a> </li> <li> <a href="">Introduction to HTML</a> </li></ul>
-& discuss any questions they might have. If you are not familiar with HTML you may want to read ahead in our <a href="http://mcwic.github.io/htmltutorial/">HTML Teacher Tutorial</a> first.
+Show students this video:
+<a href="https://www.youtube.com/watch?v=cHLr3vCfgNo&list=PLPpkJJSKXEJ11Mq8xjty3AZKldH9V48mt&index=2">Introduction to HTML</a>
+& discuss any questions they might have. If you are not familiar with HTML you may want to read ahead in our <a href="http://mcwic.github.io/htmltutorial/">HTML Teacher Tutorial</a> and watch the full series of our [videos](http://www.youtube.com/playlist?list=PLPpkJJSKXEJ11Mq8xjty3AZKldH9V48mt) first.
 
 If you have extra time, direct students to the relevant web developer <a href="http://mcwic.github.io/htmlblocks/blandrolemodellibrary.html">computer scientist profiles</a>: System Administrator & Web Developer & IBM Web Guru.
 
@@ -269,6 +268,7 @@ It will probably take two classes to work through this material.
 In week 7, we recommend walking through items 1-5. In week 8 we recommend working through items 6-9. Alternately, you can help your students create a programming portfolio in Tumblr during week 8, and leave items 6-9 for the students to work through on their own. 
 
 Instructions on creating a programming portfolio in Tumblr are located [here]().
+If you choose to have students create their own programming portfolio, you may also want to do the "Create Your Own Computer Scientist Profile" activity with them. Instructions and templates for this activity are available in the "Computer Scientist Library Projects & Assessments" section [here](http://mcwic.github.io/htmlblocks/teacher_resources.html#top).
 
 --- .class #id
 
